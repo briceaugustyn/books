@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <img src="/embedded_C.png" width="400px"</img> 
+    <img src="/Embedded_C.png" width="400px"</img> 
 </div>
 Take aways form "Programming Embedded Systems" 
 by Michael Barr
