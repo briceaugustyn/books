@@ -37,6 +37,7 @@ by Brian W. Kernighan  (Author), Dennis M. Ritchie (Author)
 
 Take aways form "Understanding and Using C Pointers: Core Techniques for Memory Management 1st Edition" 
 by by Richard M Reese (Author)
+
 1
 2
 3
