@@ -1,8 +1,15 @@
 # books
 
-![Alt text](https://github.com/briceaugustyn/books/C_5th_edition.png?raw=true "C 5th Edition")
+
 
 
 <div align="center">
     <img src="/C_5th_edition.png" width="400px"</img> 
 </div>
+
+% Take aways form "C Programming Language, 2nd Edition 2nd Edition"
+1
+2
+3
+4
+5
