@@ -4,5 +4,5 @@
 
 
 <div align="center">
-    <img src="/screenshots/C_5th_edition.png" width="400px"</img> 
+    <img src="/C_5th_edition.png" width="400px"</img> 
 </div>
